@@ -39,7 +39,7 @@ namespace ConsoleApp5
             Console.WriteLine("Digite o nome do " + t5 + " ?");
                 pt5 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("A pontuação dos times são:\n "+t1+": "+pt1+". \n "+t2+": "+pt2+". \n "+t3+": "+pt3+". \n "+t4+": "+pt4+". \n "+t5+": "+pt5+". " );
+            Console.WriteLine("A pontuação dos times são:\n "+t1+": "+pt1+". \n "+t2+": "+pt2+". \n "+t3+": "+pt3+". \n "+t4+": "+pt4+". \n "+t5+": "+pt5+". ");
             Console.ReadKey();
         }
     }
